@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # COVID CASES PREDICTION
  This project aims to predict the numbers that are published in each day regarding the amount of Coronavirus (COVID-19) cases and deaths. 
  
